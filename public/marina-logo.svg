@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520">
+<rect width="520" height="520" rx="8" fill="#001a24"/>
+<g transform="translate(260 145)">
+<circle r="92" fill="none" stroke="#f7a915" stroke-width="9"/>
+<circle r="70" fill="#001a24" stroke="#f4f1ea" stroke-width="8"/>
+<g fill="#f4f1ea">
+<rect x="-5" y="-128" width="10" height="38" rx="5"/><rect x="-5" y="90" width="10" height="38" rx="5"/>
+<rect x="-128" y="-5" width="38" height="10" rx="5"/><rect x="90" y="-5" width="38" height="10" rx="5"/>
+<rect x="-94" y="-104" width="10" height="38" rx="5" transform="rotate(-45 -89 -85)"/><rect x="84" y="66" width="10" height="38" rx="5" transform="rotate(-45 89 85)"/>
+<rect x="66" y="-94" width="10" height="38" rx="5" transform="rotate(45 71 -75)"/><rect x="-104" y="84" width="10" height="38" rx="5" transform="rotate(45 -99 103)"/>
+</g>
+<path d="M-43-38 L0 4 L43-38 L18 20 L0 45 L-18 20 Z" fill="#f7a915"/>
+<path d="M-43-38 L-17-12 L-17 28 L-43 5 Z" fill="#f4f1ea"/><path d="M43-38 L17-12 L17 28 L43 5 Z" fill="#f4f1ea"/>
+</g>
+<text x="260" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="64" font-weight="300" fill="#f7a915">Marina</text>
+<text x="380" y="330" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#f4f1ea">li</text>
+<text x="425" y="330" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#f7a915">jo</text>
+<text x="260" y="356" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="9" fill="#f4f1ea">ASSOCIATE</text>
+<text x="260" y="379" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="4" fill="#f7a915">DESIGNER &amp; BUILDERS</text>
+<text x="260" y="402" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="5" fill="#f4f1ea">WE ARE CREATORS</text>
+</svg>
